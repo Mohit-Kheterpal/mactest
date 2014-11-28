@@ -8,7 +8,7 @@ open Android.OS
 open Android.Runtime
 open Android.Views
 open Android.Widget
-
+//wsdefrewfewfd
 [<Activity (Label = "sdfe4wr44", MainLauncher = true)>]
 type MainActivity () =
     inherit Activity ()
